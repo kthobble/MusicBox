@@ -20,6 +20,13 @@ CircuitPython libraries provided by AdaFruit
 
 Thonny IDE
 
+### Libraries
+adafruit-circuitpython-bundle-7.x-mpy-20221007
+
+CircuitPython_async-0.1.2
+
+Adafruit_MAX98357
+
 ## Music 
 Wishes and Happily Ever After
 
