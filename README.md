@@ -13,6 +13,8 @@ Handmade by loml Bobby
 
 [Mini Oval Speaker - 8 Ohm 1 Watt](https://www.adafruit.com/product/3923)
 
+Magnetic contact switch (door sensor)
+
 Resistors and Push Button from my circuits lab caboodle from college I never got rid of
 
 ## Software
