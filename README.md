@@ -5,14 +5,27 @@ Music Box powered by RPi Pico made for my lovely friend Erin. Swaps between her 
 Handmade by loml Bobby
 
 ## Hardware
+[Raspberry Pi Pico H](https://www.adafruit.com/product/5525)
+
+[Adafruit I2S 3W Class D Amplifier Breakout - MAX98357A](https://www.adafruit.com/product/3006)
+
+[MicroSD card breakout board+](https://www.adafruit.com/product/254)
+
+[Mini Oval Speaker - 8 Ohm 1 Watt](https://www.adafruit.com/product/3923)
+
+Resistors and Push Button from my circuits lab caboodle from college I never got rid of
 
 ## Software
 CircuitPython libraries provided by AdaFruit
 
+Thonny IDE
+
 ## Music 
-Wishes
-Happily Ever After
-Used software convert MP3 to Midi files, cleaned up by hand to generate the sheet music played by the pianist.  
+Wishes and Happily Ever After
+
+Used AnthemScore convert MP3 to Midi files, cleaned up by hand to generate the sheet music played by the pianist at the wedding :')
+
+Used midi file to create a music box version of each song, cut the Merida theme out of HAE
 
 ## Tracking Future Improvements
 
